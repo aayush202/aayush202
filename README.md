@@ -1,14 +1,60 @@
 ## Hey Everyone!!!👋 ![Aayush Sharma](https://github.com/aayush202/aayush202/blob/main/banner%20jpg.jpg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🌐web-developer🛡️;📱UI/UX-Desiger📲;🔐Data-analyst🔒;🚀Python-Programmer🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🌐AI-Enthusiast🛡️;📱UI/UX-Desiger📲;🔐Data-Science🔒;🚀Python-Programmer🚀)
 
-![redhat](https://skillicons.dev/icons?i=redhat) <h1>Hi! I am UI/UX Designer and a Programmer.</h1> 
-👋 Hi, I’m Aayush Sharma </br>
-👀 I’m interested in making 3d models and animation </br>
-🌱 I’m currently learning various languages and full stack development </br>
-💞️ I’m looking to collaborate with github community and sharing my experiences.... </br>
-📫 Here is my social media handle you can interact with me </br>
-📱 @_.aayush_120
+![redhat](https://skillicons.dev/icons?i=redhat) <h1>Hi! 👋 I'm Aayush, a Data Science & AI enthusiast.</h1> 
+
+
+## 🚀 About Me
+
+I'm a passionate Data Science and Artificial Intelligence student who enjoys turning data into meaningful insights and building intelligent solutions with technology.
+
+* 🎓 Currently studying **Data Science & AI**
+* 🐍 Learning and working with **Python**
+* 📊 Interested in **Machine Learning, Deep Learning, Data Analytics, and AI Applications**
+* 🌱 Continuously exploring new technologies and improving my skills
+* 💡 Always excited to work on innovative projects and solve real-world problems
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+
+* Python
+* SQL
+
+### Data Science & AI
+
+* Machine Learning
+* Data Analysis
+* Data Visualization
+* Statistics
+* Deep Learning (Learning)
+
+### Tools & Technologies
+
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## 📚 Currently Learning
+
+* Advanced Machine Learning
+* Artificial Intelligence
+* Data Engineering
+* Generative AI
+
+## 🎯 Goals
+
+* Build impactful AI-powered applications
+* Contribute to open-source projects
+* Develop strong expertise in Data Science and Artificial Intelligence
+* Continuously learn and grow as a technology professional
+
+## 📫 Connect With Me
+
+* LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sharmaaayush07/)
+* Naukri: [My Naukri Profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 <img align="right" alt="hacker" width="400" src="https://github.com/WildCarter26/WildCarter26/blob/main/gif.gif">
 
