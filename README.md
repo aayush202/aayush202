@@ -1,4 +1,4 @@
-## Hey Everyone!!!👋 ![Aayush Sharma](https://github.com/aayush202/aayush202/blob/main/banner%20jpg.jpg)
+## Hey Everyone!!!👋 ![Aayush Sharma](Banner.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🌐AI-Enthusiast🛡️;📱UI/UX-Desiger📲;🔐Data-Science🔒;🚀Python-Programmer🚀)
 
